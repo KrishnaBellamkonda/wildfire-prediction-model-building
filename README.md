@@ -57,6 +57,23 @@ The aim of this exercise was to build a linear machine learning model which can 
 
 
 ### Data Visualizations
+* Boxplots of selected features
+<img src="./images/Boxplots.png"><img/>
+* Selected Features
+<img src="./images/SelectedFeatures.png"><img/>
+* Feature Importances Pie Chart 
+<img src="./images/FeatureImportancesPieChart.png"><img/>
+* ControlRate vs. Acres Burned 
+<img src="./images/Boxplots.png"><img/>
+* Control 
+<img src="./images/Duration_Independence.png"><img/>
+* Coefficients of Model 
+<img src="./images/CoeficientsofModel.png"><img/>
+* Error Comparison 
+<img src="./images/ErrorComparision.png"><img/>
+* Feature Importances
+<img src="./images/Features_and_std.png"><img/>
+
 
 
 ### Final Equation
