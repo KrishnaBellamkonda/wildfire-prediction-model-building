@@ -57,6 +57,8 @@ The aim of this exercise was to build a linear machine learning model which can 
 
 
 ### Data Visualizations
+* Fire Spread Model
+<img src="./images/FireSpreadModel.png"><img/>
 * Boxplots of selected features
 <img src="./images/Boxplots.png"><img/>
 * Selected Features
