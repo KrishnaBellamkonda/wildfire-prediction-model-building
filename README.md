@@ -1,7 +1,7 @@
 # wildfire-prediction-model-building
 
 ### Description
-*This project is a machine learning project built with an aim of predicting the area of land lost to wildfire given the place's salient features. This model is inspired by a extended essay project by an IB student.*
+*This project is a machine learning project built with an aim of predicting the area of land lost to wildfire given the place's salient features.The model was built upon the California Wildfire Dataset for convinience. This model is inspired by a extended essay project by an IB student.*
 
 ### Aim 
 The aim of this exercise was to build a linear machine learning model which can predict the land area lost to wildfires given the certain weather features of a given location. 
@@ -56,3 +56,4 @@ $`ControlRate = 0.0005*(MaxTemperature) + 0.0019*(AvgTemperature) + -0.001*(MinT
 
 ### Sources
 1) National Center for Atmospheric Research (https://www.mmm.ucar.edu/people/coen/files/newpage_f.html)
+2) California Wildfire Dataset (https://www.kaggle.com/ananthu017/california-wildfire-incidents-20132020)
