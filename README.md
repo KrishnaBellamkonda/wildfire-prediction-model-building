@@ -76,7 +76,7 @@ The aim of this exercise was to build a linear machine learning model which can 
 * Feature Importances
 <img src="./images/Features_and_std.png"><img/>
 * Learning Curve
-<img src="./LearningCurve.png"><img/>
+<img src="./images/LearningCurve.png"><img/>
 
 
 
