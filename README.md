@@ -7,7 +7,15 @@
 The aim of this exercise was to build a linear machine learning model which can predict the land area lost to wildfires given the certain weather features of a given location. 
 
 ### Table of Contents 
-
+* [Description](#description)
+* [Aim](#aim)
+* [Methodology](#methodology)
+* [Assumptions](#assumptions)
+* [Technology](#technology)
+* [Modules](#modules)
+* [Data Visualization](#data-visualization)
+* [Final Equation](#final-equation)
+* [Sources](#sources)
 
 ### Methodology 
 * 1) Exploration - Understanding the features and trends in the dataset
