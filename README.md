@@ -55,3 +55,4 @@ The aim of this exercise was to build a linear machine learning model which can 
 $`ControlRate = 0.0005*(MaxTemperature) + 0.0019*(AvgTemperature) + -0.001*(MinTemperature) + -0.0005*(MaxDewPoint) + 0.0023*(AvgDewPoint) + 0.0044*(MinDewPoint) + -0.0011*(MaxHumidity) + 0.0008*(AvgHumidity) + -0.0028*(MinHumidity) + 0.0012*(MaxWindSpeed) + 0.2288`$
 
 ### Sources
+1) National Center for Atmospheric Research (https://www.mmm.ucar.edu/people/coen/files/newpage_f.html)
