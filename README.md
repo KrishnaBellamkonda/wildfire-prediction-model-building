@@ -17,6 +17,13 @@ The aim of this exercise was to build a linear machine learning model which can 
 * [Final Equation](#final-equation)
 * [Sources](#sources)
 
+### ML Techniques Used
+* Linear Regression (SGD)
+* Anamolgy Detection and Filtering 
+* Random Forest Regression 
+* Random Forest Regression Feature Importances
+* Data Visualization of the above
+
 ### Methodology 
 * 1) Exploration - Understanding the features and trends in the dataset
 * 2) Processing - Selecting useful data features and processing them 
@@ -25,6 +32,7 @@ The aim of this exercise was to build a linear machine learning model which can 
 * 5) Selecting the best configuration for the model 
 * 6) Testing the model 
 * 7) Using the model 
+* 8) Evaluation
 
 * The first notebook - 'WildFireDataExploration' contains the exploration process involved in the model building process. 
 * The second notebook - 'WildFireModelbuilding' contains the process of building a linear model. 
